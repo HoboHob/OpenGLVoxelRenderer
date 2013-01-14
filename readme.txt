@@ -8,6 +8,7 @@
 1. Description
 2. Installation
 3. Credits
+4. Changelog
 
 -----------------------
 -     Description     -
@@ -31,3 +32,10 @@ When you have LWJGL, using this library should be easy. But of course, I made it
 -       Credits       -
 -----------------------
 Just about everything - HoboHob
+
+-----------------------
+-      Changelog      -
+-----------------------
+V0.0:
+ + Readme
+ + Created Repository
